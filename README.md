@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Typless is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://typless.com/
+Typless provides an AI‑powered Intelligent Document Processing (IDP) platform that automates extraction of data from invoices, receipts, contracts and other documents. Leveraging machine learning, the service reads PDFs, images and scanned files to deliver structured line‑items, tables and key fields with high accuracy, integrating via a REST API into ERP and business applications. The platform offers continuous learning, plug‑and‑play integration, and a cloud‑based dashboard for workflow automation, targeting enterprises seeking to reduce manual data entry and improve operational efficiency.
+
+**Areas:** Company · AI · Document-Processing · Automation · Intelligent-Document-Processing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://typless.com/)
+- [Documentation](https://typless.gitbook.io/typlessapi)
+- [API reference](https://typless.gitbook.io/typlessapi)
+- [Blog](https://typless.com/blog/)
+- [Terms of service](https://typless.com/terms-and-conditions/)
+- [Privacy policy](https://typless.com/privacy-policy/)
+- [GitHub](https://github.com/typless)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/typless/](https://apis.io/providers/typless/).
